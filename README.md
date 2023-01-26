@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I am Ujah Stephen</h1>
-About Me : <h3 align="center">A software developer presently focusing on frontend web development, Results-driven and detail-oriented passionate, I am eager to apply my technical skills and problem-solving abilities as a junior front-end developer to help you bring your software ideas to life.</h3
+About Me : <h3 align="center">A software developer presently focusing on frontend web development, Results-driven and detail-oriented passionate, I am eager to apply my technical skills and problem-solving abilities as a front-end developer to help you bring your software ideas to life.</h3
 
 
 - 🔭 I’m currently working on **Javascript, React and typescript** projects
