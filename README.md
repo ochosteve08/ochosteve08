@@ -14,6 +14,7 @@ About Me : <h3 align="center">A software developer presently focusing on fronten
 - 💬 Ask me about  **JavaScript**
 - 📫 How to reach me: **stephenujah@yahoo.com**
 - 🤝 I'm open to collaborating on interesting projects
+- 🤝  I’m interested in Open Source
 - 📝 I love to code and teach.
 
 
