@@ -10,8 +10,8 @@ About Me : <h3 align="center">A software developer presently focusing on fronten
 
 
 - 🔭 I’m currently working on **Javascript, React and typescript** projects
-- 🌱 I’m currently learning **React.js**, **next.js** and **typescript**
-- 💬 Ask me about  **JavaScript**
+- 🌱 I’m currently learning **React-Redux**, **next.js** and **typescript**
+- 💬 Ask me about  **JavaScript**, **React.js**
 - 📫 How to reach me: **stephenujah@yahoo.com**
 - 🤝 I'm open to collaborating on interesting projects
 - 🤝  I’m interested in Open Source
