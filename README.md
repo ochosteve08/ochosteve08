@@ -9,8 +9,7 @@
 About Me : <h3 align="center">A software developer presently focusing on frontend web development, Results-driven and detail-oriented passionate, I am eager to apply my technical skills and problem-solving abilities as a front-end developer to help you bring your software ideas to life.</h3
 
 
-- 🔭 I’m currently working on **Javascript, React and typescript** projects
-- 🌱 I’m currently learning **React-Redux**, **next.js** and **typescript**
+- 🔭 I’m currently working on **Javascript, React-Redux and typescript** projects
 - 💬 Ask me about  **JavaScript**, **React.js**
 - 📫 How to reach me: **stephenujah@yahoo.com**
 - 🤝 I'm open to collaborating on interesting projects
