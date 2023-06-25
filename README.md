@@ -9,8 +9,8 @@
 About Me : <h3 align="center">A web developer,with a result-driven and detail-oriented personality, I enjoy applying my technical skills in problem-solving to help bring software ideas to life.</h3
 
 
-- 🔭 I’m currently working on **Javascript, React-Redux and typescript** projects
-- 💬 Ask me about  **JavaScript**, **React.js**
+- 🔭 I’m currently working on **Javascript, Nodejs, React-Redux and typescript** projects
+- 💬 Ask me about  **JavaScript**, **React.js**,  **Node.js**
 - 📫 How to reach me: **stephenujah@yahoo.com**
 - 🤝 I'm open to collaborating on interesting projects
 - 🤝  I’m interested in Open Source
