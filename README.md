@@ -5,15 +5,15 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<h1 align="center">Hi 👋, I am Ujah Stephen</h1>
-About Me : <h3 align="center">A web developer,with a result-driven and detail-oriented personality, I enjoy applying my technical skills in problem-solving to help bring software ideas to life.</h3
+<h1 align="center">Meet 👋,  Ujah Stephen</h1>
+About Me : <h3 align="center">A web developer, i build frontend and backend products that are scalable, robutst and offer users a great experience.</h3
 
 
-- 🔭 I’m currently working on **Javascript, Nodejs, React-Redux and typescript** projects
+- 🔭 I’m currently building projects with **Javascript, Nodejs, React-Redux and typescript** 
 - 💬 Ask me about  **JavaScript**, **React.js**,  **Node.js**
 - 📫 How to reach me: **stephenujah@yahoo.com**
 - 🤝 I'm open to collaborating on interesting projects
-- 🤝  I’m interested in Open Source
+- 🤝 I’m interested in Open Source
 - 📝 I love to code and teach.
 
 
