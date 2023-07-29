@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">Meet 👋,  Ujah Stephen</h1>
-About Me : <h3 align="center">A web developer, i build frontend and backend products that are scalable, robutst and offer users a great experience.</h3
+About Me : <h3 align="center">A web developer, i build frontend and backend products that are scalable, robust with an exciting user's great experience.</h3
 
 
 - 🔭 I’m currently building projects with **Javascript, Nodejs, React-Redux and typescript** 
