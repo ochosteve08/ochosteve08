@@ -6,10 +6,10 @@
 </div>
 
 <h1 align="center">Meet 👋,  Ujah Stephen</h1>
-About Me : <h3 align="center">A web developer, i build frontend and backend products that are scalable,secured and robust with an exciting user's great experience.</h3
+About Me : <h3 align="center">A web developer who specializes in building frontend and backend products that are scalable,secured and robust with an exciting user's  experience.</h3
 
 
-- 🔭 I’m currently building projects with **Javascript, Nodejs, React-Redux and typescript** 
+- 🔭 I’m currently building projects with **Javascript, Nodejs, React-Redux , Nextjs and typescript** 
 - 💬 Ask me about  **JavaScript**, **React.js**,  **Node.js**
 - 📫 How to reach me: **stephenujah@yahoo.com**
 - 🤝 I'm open to collaborating on interesting projects
