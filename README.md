@@ -17,7 +17,7 @@ About Me : <h3 align="center">A web developer who specializes in building fronte
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujah-stephen-4a3a8782/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Prof_Ochosteve) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujah-stephen/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Prof_Ochosteve) 
 
 
 <h3 align="left"> :hammer_and_wrench: Languages and Tools :</h3>
