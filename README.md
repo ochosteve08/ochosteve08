@@ -1,53 +1,66 @@
-
-      
-      
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<h1 align="center">Meet 👋,  Ujah Stephen</h1>
-About Me : <h3 align="center">A web developer who specializes in building frontend and backend products that are scalable,secured and robust with an exciting user's  experience.</h3
+<h1 align="center">👋 Hi, I'm Ujah Stephen Ocheola</h1>
 
+<h3 align="center">Network & System Engineer | CCNA | Software Developer | Cloud Engineer</h3>
 
-- 🔭 I’m currently building projects with **Javascript, Nodejs, React-Redux , Nextjs and typescript** 
-- 💬 Ask me about  **JavaScript**, **React.js**,  **Node.js**
-- 📫 How to reach me: **stephenujah@yahoo.com**
-- 🤝 I'm open to collaborating on interesting projects
-- 📝 I love to code and teach.
+---
 
+🚀 I'm a technology-driven professional with **7+ years** of experience managing mission-critical networks, building cloud-integrated infrastructures, and developing scalable full-stack applications. My expertise spans telecom infrastructure, network optimization, cloud DevOps, and backend/API engineering.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujah-stephen/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Prof_Ochosteve) 
+---
 
+### 🧠 What I Do
 
-<h3 align="left"> :hammer_and_wrench: Languages and Tools :</h3>
-<p align="left"> 
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-       </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-     </a> 
-         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-     
-    
+- 🛰️ **Network Engineering:** IP/MPLS, routing/switching, VPN, firewall security (Sophos, pfSense), SCADA systems
+- ☁️ **Cloud & DevOps:** AWS (SAA-C03), GitHub Actions, Docker, Terraform, Ansible, Linux/Windows Server
+- 🧩 **Software Development:** REST APIs, backend with Node.js/Express, frontend with React, CI/CD
+- 📈 **System Operations:** Monitoring, automation, Tier-2/3 support, vendor & audit coordination
 
+---
 
-       
-       
+### 📜 Certifications
 
+- ✅ **CCNA – Cisco Certified Network Associate**
+- ✅ **AWS Certified Solutions Architect – Associate**
+- 🛡️ **ISC2 Certified in Cybersecurity (Scheduled)**
+- 🏗️ **CCNP (In Progress)**
 
- </p>
+---
 
-     
+### 🧰 Tools & Tech Stack
 
-      
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL/MariaDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>&nbsp;
+</p>
 
+---
 
-      
-      
+### 📬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujah-stephen/)  
+📫 Email: **stephenujah@yahoo.com**
 
+---
+
+### 🧩 I’m Open To:
+- 💡 Collaborations on full-stack or infrastructure automation projects
+- 🏢 Networking roles, cloud DevOps, or infrastructure engineering challenges
+- 🎓 Mentoring or tech knowledge-sharing
+
+---
+
+🔧 *“Building secure and scalable systems across code, cloud, and cable.”*
