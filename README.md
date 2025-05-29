@@ -25,7 +25,7 @@
 
 - ✅ **CCNA – Cisco Certified Network Associate**
 - ✅ **AWS Certified Solutions Architect – Associate**
-- 🛡️ **ISC2 Certified in Cybersecurity (Scheduled)**
+- 🛡️ **ISC2 Certified in Cybersecurity**
 - 🏗️ **CCNP (In Progress)**
 
 ---
